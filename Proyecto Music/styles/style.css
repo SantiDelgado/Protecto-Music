@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+
+.imagen-superior {
+    background-image: url('../assets/angel.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagen-superior h1 {
+    color: #ffffff;
+    font-size: 5rem;
+    font-weight: 300;
+    letter-spacing: 5px;
+    margin: 0;
+}
+
+
+.cuadro-blanco {
+    background-color: #ffffff;
+    min-height: 80vh;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 50px 20px;
+}
+
+
+.imagen-inferior {
+    background-image: url('../assets/raptis.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagen-inferior h2 {
+    color: #ffffff;
+    font-size: 3rem;
+    text-align: center;
+    margin: 0;
+    letter-spacing: 2px;
+}
+
+
+.footer-rosa {
+    background-color: #ff3b6a;
+    min-height: 300px;
+    padding: 50px;
+}
