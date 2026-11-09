@@ -1,3 +1,4 @@
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -28,14 +29,83 @@ body {
 
 .cuadro-blanco {
     background-color: #ffffff;
-    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    gap: 150px;
     max-width: 1100px;
     margin: 0 auto;
-    padding: 50px 20px;
+    padding: 100px 20px;
+}
+
+.fila-contenido {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 80px;
+}
+
+.bloque-texto, .bloque-imagen {
+    flex: 1;
+}
+
+.bloque-imagen img {
+    width: 100%;
+    max-width: 420px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+}
+
+.texto-rosa {
+    color: #ff3b6a;
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 5px;
+    line-height: 1;
+}
+
+.bloque-texto h2 {
+    color: #222222;
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+
+.bloque-texto p {
+    color: #666666;
+    font-size: 15px;
+    line-height: 1.8;
+    margin-bottom: 40px;
+    padding-right: 20px;
+}
+
+
+.boton-rosa {
+    display: inline-block;
+    background-color: #ff3b6a;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 15px 40px;
+    border-radius: 50px;
+    font-size: 13px;
+    font-weight: bold;
+    text-transform: uppercase;
+    box-shadow: 0 8px 20px rgba(255, 59, 106, 0.3);
+    transition: 0.3s ease;
+}
+
+.boton-rosa:hover {
+    background-color: #e62e5a;
+    transform: translateY(-2px);
 }
 
 
 .imagen-inferior {
+    background-color: #333333;
     background-image: url('../assets/raptis.png');
     background-position: center;
     background-size: cover;
@@ -43,16 +113,31 @@ body {
 
     height: 70vh;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
+    padding-right: 10%;
 }
 
-.imagen-inferior h2 {
+.contenido-inferior {
+    max-width: 500px;
+    text-align: left;
+}
+
+.contenido-inferior h2 {
     color: #ffffff;
-    font-size: 3rem;
-    text-align: center;
-    margin: 0;
-    letter-spacing: 2px;
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+.contenido-inferior p {
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 35px;
 }
 
 
@@ -60,4 +145,84 @@ body {
     background-color: #ff3b6a;
     min-height: 300px;
     padding: 50px;
+}
+
+/* bloque blanco */
+
+.cuadro-blanco {
+    display: flex;
+    flex-direction: column;
+    gap: 150px;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 100px 20px;
+}
+
+.fila-contenido {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 80px;
+}
+
+
+.bloque-texto, .bloque-imagen {
+    flex: 1;
+}
+
+
+.bloque-imagen img {
+    width: 100%;
+    max-width: 420px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+}
+
+
+.texto-rosa {
+    color: #ff3b6a;
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 5px;
+    line-height: 1;
+}
+
+.bloque-texto h2 {
+    color: #222222;
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+
+.bloque-texto p {
+    color: #222222;
+    font-size: 15px;
+    line-height: 1.8;
+    margin-bottom: 40px;
+    padding-right: 20px;
+}
+
+
+.boton-rosa {
+    display: inline-block;
+    background-color: #ff3b6a;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 15px 40px;
+    border-radius: 50px;
+    font-size: 13px;
+    font-weight: bold;
+    text-transform: uppercase;
+    box-shadow: 0 8px 20px rgba(255, 59, 106, 0.3);
+    transition: 0.3s ease;
+}
+
+.boton-rosa:hover {
+    background-color: #e62e5a;
+    transform: translateY(-2px);
 }

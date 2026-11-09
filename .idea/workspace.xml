@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0173fbce-3057-4a79-9d82-a94f5aa86172" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Proyecto Music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto Music/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto Music/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto Music/styles/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000106410497005" />
+      <entry key="MS500" value="1.1012504342040057" />
+      <entry key="S2" value="1.5640910687282559" />
+      <entry key="S5" value="1.7953159447812261" />
+      <entry key="S10" value="1.8918048804425922" />
+      <entry key="S30" value="1.9625499628211882" />
+      <entry key="S60" value="1.9810963087338922" />
+      <entry key="M2" value="1.9905810379599322" />
+      <entry key="M5" value="2.0757822411940996" />
+      <entry key="M10" value="3.02488800567734" />
+      <entry key="M15" value="4.477124960678642" />
+      <entry key="M30" value="8.059998116212697" />
+      <entry key="H1" value="11.520612369650987" />
+      <entry key="H2" value="13.946116355406945" />
+      <entry key="H4" value="15.385097780977068" />
+      <entry key="D1" value="16.717740407049018" />
+      <entry key="W1" value="16.959343830491115" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.4099204093869077E-300" />
+      <entry key="S5" value="1.5004568739555671E-120" />
+      <entry key="S10" value="1.4735843019947967E-60" />
+      <entry key="S30" value="1.7158438820010995E-20" />
+      <entry key="S60" value="1.8621056804277582E-10" />
+      <entry key="M2" value="2.173808193575037E-5" />
+      <entry key="M5" value="0.030884215088157564" />
+      <entry key="M10" value="0.381749875970236" />
+      <entry key="M15" value="0.8940578500482192" />
+      <entry key="M30" value="2.1075284825098053" />
+      <entry key="H1" value="3.243594264006551" />
+      <entry key="H2" value="4.0263590519081065" />
+      <entry key="H4" value="4.486626175839075" />
+      <entry key="D1" value="4.910495946928006" />
+      <entry key="W1" value="4.987113680328568" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9395320772190601" />
+      <entry key="MS500" value="1.0862192165519307" />
+      <entry key="S2" value="1.5572744866209862" />
+      <entry key="S5" value="1.7919769844759288" />
+      <entry key="S10" value="1.8900075266995424" />
+      <entry key="S30" value="1.9619195801191092" />
+      <entry key="S60" value="1.9807770185620812" />
+      <entry key="M2" value="1.9904417812404696" />
+      <entry key="M5" value="2.1063914956082153" />
+      <entry key="M10" value="3.4051216925192507" />
+      <entry key="M15" value="5.36872886994253" />
+      <entry key="M30" value="10.164501591211371" />
+      <entry key="H1" value="14.761821956100876" />
+      <entry key="H2" value="17.970976969797157" />
+      <entry key="H4" value="19.870883888557348" />
+      <entry key="D1" value="21.628082316151858" />
+      <entry key="W1" value="21.94643514209281" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LkD4qWOqLp0O32xdVXgLsY2819" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Santiago/Documents/Proyecto Music&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Proyecto Music" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Proyecto Music" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0173fbce-3057-4a79-9d82-a94f5aa86172" name="Changes" comment="" />
+      <created>1793988983984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793988983984</updated>
+      <workItem from="1793988984991" duration="1547000" />
+      <workItem from="1793990571902" duration="630000" />
+      <workItem from="1794240368692" duration="11000" />
+      <workItem from="1794255570379" duration="3161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
